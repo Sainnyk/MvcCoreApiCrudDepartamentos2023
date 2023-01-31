@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcCoreApiCrudDepartamentos2023", "MvcCoreApiCrudDepartamentos2023\MvcCoreApiCrudDepartamentos2023.csproj", "{29097EF8-9F64-47EB-9B1A-A6887018CB9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29097EF8-9F64-47EB-9B1A-A6887018CB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29097EF8-9F64-47EB-9B1A-A6887018CB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29097EF8-9F64-47EB-9B1A-A6887018CB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29097EF8-9F64-47EB-9B1A-A6887018CB9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {219AB469-765C-4B8B-841D-76B8F1EC8774}
+	EndGlobalSection
+EndGlobal
